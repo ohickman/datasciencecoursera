@@ -1,0 +1,7 @@
+# compressed files
+*.zip
+*.gz
+
+# notes and homework
+*.hw
+*.note
