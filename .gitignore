@@ -5,3 +5,6 @@
 # notes and homework
 *.hw
 *.note
+
+# big files from Coursera that I probably don't need to add my GitHub account
+*.csv
